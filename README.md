@@ -39,8 +39,7 @@ gp.show()
 
 ```
 ## Output
-</br>
-![image](https://github.com/lokeshnarayanan/Univariate-Linear-Regression/assets/119393019/9d9f74d6-817f-42a0-8d83-df4028e2cd6d)
+![image](https://github.com/lokeshnarayanan/Univariate-Linear-Regression/assets/119393019/5a851789-00ef-4fa1-ab3c-467044c6f630)
 
 </br>
 
